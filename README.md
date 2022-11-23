@@ -1,1 +1,2 @@
-my first readme
+# 0x01. Git
+Main README.md file
